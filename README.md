@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩‍💻 Ana Victoria De la Vega Pando
 
-<!--
-**NyxtByteX/NyxtByteX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analysis & AI Student  
+Python, R, SQL & JavaScript | Advanced Excel | Power BI (basic) 🤖📈
 
-Here are some ideas to get you started:
+## 🔍 About Me
+I am a student focused on data analysis and artificial intelligence.
+I enjoy transforming data into meaningful insights through analytical thinking and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 What you'll find here
+- Academic projects in data analysis and programming
+- Reports and coursework
+- Certifications and continuous learning
+
+## 🛠 Skills
+- Python (basic)
+- R (basic)
+- SQL (basic)
+- JavaScript & HTML (basic)
+- Excel (advanced)
+- Power BI (basic)
+
+## 📫 Contact
+📧 Email: victode26@gmail.com
+
